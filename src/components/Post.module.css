@@ -99,6 +99,7 @@
   color: var(--white);
   font-weight: bold;
   cursor: pointer;
+  margin-top: 1rem;
 
   transition: background-color 0.1s;
 }
